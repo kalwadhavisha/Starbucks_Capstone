@@ -52,8 +52,6 @@ transcript.json
 - value - (dict of strings) - either an offer id or transaction amount depending on the record
 
 ## Results
-The main findings of the code can be found at the post available here.
-
 Based on the transcript records, we build an user-item-matrix that represents how users responded to the offers they received. 
 We then split the records into the training set and the test set and trained our SVD algorithm to predict how a user responses to a particular offer.
 
