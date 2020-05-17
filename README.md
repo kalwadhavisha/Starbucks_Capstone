@@ -1,6 +1,7 @@
 # Starbucks_Capstone
 
-Project in Data Scientist Nanodegree of Udacity
+Project in Data Scientist Nanodegree of Udacity.
+Medium Post on this project: https://medium.com/@havisha.kalwad/starbucks-data-analysis-and-promotional-offer-recommendation-1951515b29c8
 
 ## Table of Contents
 1. Project Motivation
