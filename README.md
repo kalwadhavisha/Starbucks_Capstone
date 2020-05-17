@@ -3,14 +3,10 @@
 Project in Data Scientist Nanodegree of Udacity
 
 ## Table of Contents
-1. Installation
-2. Project Motivation
-3. File Descriptions
-4. Results
-5. Licensing, Authors, and Acknowledgements
-
-## Installation
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.
+1. Project Motivation
+2. File Descriptions
+3. Results
+4. Licensing, Authors, and Acknowledgements
 
 ## Project Motivation
 It is the Starbuck's Capstone Challenge of the Data Scientist Nanodegree in Udacity. The dataset is obtained from the program that creates the data, simulates how people make purchasing decisions and how those decisions are influenced by promotional offers. The aim is to make a recommendation engine that recommends Starbucks which offer should be sent to a particular customer.
